@@ -21,4 +21,5 @@ Venda, Quantidade em Estoque, Quantidade Mínima, Tipo.
 ## Modelo Relacional
 ![Alt text](./ModeloRelacional.png "Modelo relacional")
 
-
+## Criação das tabelas
+As tabelas foram criadas de acordo o [Arquivo do SQL](./Fotografia.sql)
