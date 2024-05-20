@@ -18,7 +18,7 @@ Função, Departamento
 Venda, Quantidade em Estoque, Quantidade Mínima, Tipo.
 
 ## Entidade-Relacionamento
-![Alt text](./ModeloEntidadeRelacionamento.png "Modelo entidade relacionamento")
+![Alt text](./ModeloER.png "Modelo entidade relacionamento")
 
 ## Modelo Relacional
 ![Alt text](./ModeloRelacional.png "Modelo relacional")
