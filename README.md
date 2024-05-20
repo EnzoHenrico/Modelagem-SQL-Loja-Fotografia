@@ -1,4 +1,6 @@
-# Exercício de Modelagem de Banco de dados 
+# Exercício de Modelagem de Banco de dados
+
+Trabalho feito em dupla entre: [Enzo Henrico](https://github.com/EnzoHenrico) e [Caue Matheus](https://github.com/cauematheus23).
 
 ## Especificação: 
 
